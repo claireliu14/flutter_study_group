@@ -4,7 +4,11 @@ Flutter Study Group 是由 [Women Who Code Taipei](https://www.facebook.com/wwco
 
 ## Project description
 
-- hello_flutter: 將第一個 Flutter project 加入 library 換上 WebView
+- hello_flutter - 將第一個 Flutter project 加入 library 換上 WebView
+
+## Notes
+
+- 如果專案在開啟後有任何錯誤，試著點擊 Android Studio 上的 'Get dependencies'
 
 ## Resources to start Flutter project
 
