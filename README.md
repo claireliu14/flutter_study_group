@@ -1,7 +1,10 @@
 # Flutter Study Group
 
-Flutter Study 
-Resources used in study group.
+Flutter Study Group 是由 [Women Who Code Taipei](https://www.facebook.com/wwcodetaipei/) 所舉辦的四天 Flutter workshop，讓參與者在平日晚間可以學習新的跨平台開發技術，除了線下讀書會，本期規劃還有線上的 Dart 語言教學，於週三晚上 20:30 在 [YouTube 直播教學](https://www.youtube.com/watch?v=pLHsyyqtvLo)。
+
+## Project description
+
+- hello_flutter: 將第一個 Flutter project 加入 library 換上 WebView
 
 ## Resources to start Flutter project
 
