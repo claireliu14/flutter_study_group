@@ -5,6 +5,7 @@ Flutter Study Group 是由 [Women Who Code Taipei](https://www.facebook.com/wwco
 ## Project description
 
 - hello_flutter - 將第一個 Flutter project 加入 library 換上 WebView
+- networking_http - 透過 http package 讀取 open data 並呈現在 ListView 中
 
 ## Notes
 
