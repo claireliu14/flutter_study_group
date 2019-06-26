@@ -1,6 +1,6 @@
 # Fetching data from internet
 
-A new Flutter application with fetching data from internet and show items ListView.
+A new Flutter application with fetching data from internet and show items in ListView.
 
 ## Getting Started
 
