@@ -1,6 +1,6 @@
-# networking_http
+# Fetching data from internet
 
-A new Flutter application with fetching data from internet.
+A new Flutter application with fetching data from internet and show items ListView.
 
 ## Getting Started
 
