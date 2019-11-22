@@ -1,6 +1,4 @@
-# Flutter Study Group
-
-Flutter Study Group 是由 [Women Who Code Taipei](https://www.facebook.com/wwcodetaipei/) 所舉辦的四天 Flutter workshop，讓參與者在平日晚間可以學習新的跨平台開發技術，除了線下讀書會，本期規劃還有線上的 Dart 語言教學，於週三晚上 20:30 在 [YouTube 直播教學](https://www.youtube.com/watch?v=pLHsyyqtvLo)。
+# Flutter Study Notes
 
 ## Project description
 
@@ -10,6 +8,18 @@ Flutter Study Group 是由 [Women Who Code Taipei](https://www.facebook.com/wwco
 ## Notes
 
 - 如果專案在開啟後有任何錯誤，試著點擊 Android Studio 上的 'Get dependencies'
+
+## Flutter Activity Information
+
+### Flutter Brunch  
+
+> Flutter Brunch 由一群想要交流 Flutter 技術的女孩們一同組成。每月月底的週末，我們會有兩個小時的時間讓大家聚在一起吃吃東西與互相聊技術、討論新釋出的功能，現場也會有小主題，讓大家一同討論實作，也可以帶你的 side project 或是技術問題，搞不好現場就有大神可以幫你解決喔！更多活動資訊歡迎追蹤 [Women Who Code Taipei](https://www.facebook.com/wwcodetaipei/)。
+
+### Flutter Study Group
+
+> Flutter Study Group 是由 [Women Who Code Taipei](https://www.facebook.com/wwcodetaipei/) 所舉辦的四天 Flutter workshop，讓參與者在平日晚間可以學習新的跨平台開發技術，除了線下讀書會，本期規劃還有線上的 Dart 語言教學，於週三晚上 20:30 在 [YouTube 直播教學](https://www.youtube.com/watch?v=pLHsyyqtvLo)。
+
+
 
 ## Resources to start Flutter project
 
