@@ -1,15 +1,17 @@
 # Flutter Study Notes
 
-## Project description
+## Project description 🔅
 
 - hello_flutter - 將第一個 Flutter project 加入 library 換上 WebView
 - networking_http - 透過 http package 讀取 open data 並呈現在 ListView 中
+- flutter_video_player - 使用 [video_player](https://pub.dev/packages/video_player) 搭配 Slider 製作簡易播放器
+- youtube_player - 使用 [youtube_player_flutter](https://pub.dev/packages/youtube_player_flutter) 製作 YouTube 影片清單，點選後跳頁播放
 
-## Notes
+## Notes ✏️
 
 - 如果專案在開啟後有任何錯誤，試著點擊 Android Studio 上的 'Get dependencies'
 
-## Flutter Activity Information
+## Flutter Activity Information 📢
 
 ### Flutter Brunch  
 
@@ -21,7 +23,7 @@
 
 
 
-## Resources to start Flutter project
+## Resources to start Flutter project 🗂
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
