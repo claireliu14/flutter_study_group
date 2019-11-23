@@ -81,6 +81,11 @@ class _MyVideoPageState extends State<MyVideoPage> {
                     firstChild: IconButton(
                       icon: Icon(Icons.play_arrow),
                       onPressed: () {
+                        if (_controller.value.position.inSeconds.toDouble() ==
+                                sliderEndValue &&
+                            !_controller.value.isPlaying) {
+                          _controller.seekTo(Duration(seconds: 0));
+                        }
                         _controller.play();
                       },
                     ),
@@ -105,7 +110,8 @@ class _MyVideoPageState extends State<MyVideoPage> {
                             max: sliderEndValue,
                             value: sliderValue,
                             onChanged: (value) {
-                              _controller.seekTo(Duration(seconds: value.round()));
+                              _controller
+                                  .seekTo(Duration(seconds: value.round()));
 
                               // 避免 play/pause 和實際播放不同步
                               if (_controller.value.isPlaying) {
